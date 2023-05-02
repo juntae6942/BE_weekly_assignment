@@ -1,9 +1,7 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
-public class Main {
+public class main {
     public static void main(String[] args) throws IOException {
         List<String> list = new ArrayList<>();
         list.add("이은경");
